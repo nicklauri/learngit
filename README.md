@@ -1,2 +1,2 @@
 # learngit
-Temporary repo for learning git
+Temporary repo for learning git. Changed from Remote.
